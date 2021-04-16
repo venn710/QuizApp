@@ -56,7 +56,6 @@ class _QuizPageState extends State<QuizPage> {
     }
     else
     flag=true;
-    // Navigator.push(context,MaterialPageRoute(builder: (context)=>Results()));
     }
     );
   }
